@@ -1,0 +1,11 @@
+policy_rfc_model
+訓練正確率：98.5%
+測試正確率：93.4%
+rfc = RandomForestClassifier
+(n_estimators=50,min_samples_split=30,oob_score=True,random_state=1)
+
+value_rfc_model
+訓練正確率：99.2%
+測試正確率：90.5%
+rfc = RandomForestClassifier
+(n_estimators=50,min_samples_split=2,oob_score=True,random_state=1)
