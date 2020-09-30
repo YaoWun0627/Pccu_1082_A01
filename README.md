@@ -3,7 +3,7 @@
 
 # Department of Computer Science and Information Engineering, Chinese Culture University
 
-## Study of Mota Game Production and NP-Complete Explortion Problem Research
+## Study of Mota Game Production and Hard-Exploration Problem Research
 
 ## Group: A01
 ## Requirements Version
@@ -15,7 +15,7 @@
   - scikit-learn == 0.21.3
   
 ### Open GUI File
-#### ./Mota_AI_GUI_complete/run_this.py 
+#### ./Mota_GUI_complete/run_this.py 
   - [run_this.py](https://github.com/mmsA7407478/Pccu_1082_A01/blob/master/Mota_AI_GUI_complete/run_this.py) 
 <img src="https://github.com/mmsA7407478/Pccu_1082_A01/blob/master/Web_Picture/GUI_picture.png" width="70%" height="70%">
 
