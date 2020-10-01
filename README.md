@@ -28,7 +28,7 @@
 ## Experimental Results
 
 ### Test Map: Standard_map
--<img src="https://github.com/mmsA7407478/Pccu_1082_A01/blob/master/Web_Picture/dpi_200.png" width="50%" height="50%">
+-<img src="https://github.com/mmsA7407478/Pccu_1082_A01/blob/master/Web_Picture/dpi_200.png" width="70%" height="70%">
 
 
   
